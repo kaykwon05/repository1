@@ -1,0 +1,13 @@
+p{
+  color: #1B7931;
+}
+body{
+  background-color: #9DC183;
+}
+.differentfont{
+  font-family: 'EB Garamond', serif;
+}
+.left_margin{
+  height: 10rem ;
+  margin-left: 3rem;
+}
